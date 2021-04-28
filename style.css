@@ -1,0 +1,24 @@
+img {
+    height: 200px;
+    border-radius: 50%;
+
+}
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    text-shadow 2px 2px #FAFAFA;
+    font-size: 20px;
+}
+
+h3 {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#j {
+  font-family: 'Bangers', cursive;  
+}
